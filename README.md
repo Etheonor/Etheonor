@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Multy](https://www.multy.me)
 
-- 🌱 I’m currently learning **Ruby On Rails**
+- 🌱 I’m currently learning **Astro 🚀**
 
 - 💬 Ask me about **React (Next.JS) / TailwindCSS**
 
