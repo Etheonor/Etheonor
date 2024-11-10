@@ -5,7 +5,7 @@
 
 - 🔭 I’m working on [Multy](https://www.multy.me)
 
-- 🌱 I’m currently learning **SvelteKit 🚀**
+- 🌱 I’m currently learning **C# 🚀**
 
 - 💬 Ask me about **React (Next.JS) / TailwindCSS**
 
